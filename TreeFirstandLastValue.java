@@ -5,7 +5,7 @@ public class TreeFirstandLastValue {
    public static void main(String[] args) {
       System.out.println("(StudentList.java)!\n");
       TreeMap <Integer, String>tMap = new TreeMap<Integer, String>();
-      tMap.put(1, "Deepak");
+      tMap.put(1, "Sushil");
       tMap.put(2, "Robet");
       tMap.put(3, "Doney");
       tMap.put(4, "Junior");
